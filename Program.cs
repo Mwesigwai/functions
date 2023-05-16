@@ -21,7 +21,7 @@ namespace functions
                 y = Convert.ToInt32(Console.ReadLine());
 
                 Console.WriteLine("You entered..{0} and {1}", x, y);
-                Console.WriteLine("Their sum is.. {0} ", x + y);
+                Console.WriteLine("Their sum is.... {0} ", x + y);
 
                 Console.Read();
             }
