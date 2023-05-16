@@ -7,6 +7,7 @@ namespace functions
         public static void Main()
         {
             Sum();
+            Console.WriteLine("See you next time!")
         }
 
         public static void Sum()
